@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+button{
+    height: 100px; /*size of box*/
+    width: 300px;
+    margin-top: 10px; /*spacing between buttons*/
+    font-size: larger;
+    border-radius: 10%; /*rounded edges*/
+    display: block; /*stack buttons*/
+    cursor:  pointer;/*hand cursor over buttons*/;
+}
